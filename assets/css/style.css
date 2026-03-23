@@ -11,7 +11,10 @@ h1 {
 p {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 18px;
-    text-align: left;
+}
+
+img{
+    max-height: 400px;
 }
 
 .row {
@@ -19,5 +22,20 @@ p {
 }
 
 .col-12 {
+    display: flex;
     text-align: center;
+    justify-content: center;
+    align-items: center;
 }
+
+.col-6 {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.row {
+    padding: 10px;
+}
+
