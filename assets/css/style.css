@@ -17,6 +17,10 @@ img{
     max-height: 400px;
 }
 
+.img-fluid.me{
+    max-height: 500px;
+}
+
 .row {
     justify-content: center;
 }
@@ -33,6 +37,13 @@ img{
     justify-content: center;
     align-items: center;
 }
+.col-6 a {
+    color: rgb(186, 244, 9);
+}
+.col-6 a:hover {
+    color: white;
+    font-size: 18px;
+}
 
 .row {
     padding: 10px;
@@ -43,7 +54,7 @@ body {
 }
 
 .bg-characters {
-    background-image: linear-gradient(rgb(25, 34, 58), rgb(54, 86, 93), rgba(25, 34, 58, 0.8));
+    background-image: linear-gradient(rgb(25, 34, 58), rgb(54, 86, 93), rgba(25, 34, 58, 1));
 }
 
 .navbar a {
