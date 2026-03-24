@@ -94,6 +94,6 @@ body {
     margin: 20px;
 }
 
-.collapse {
+.collapse.navbar-collapse {
     color: rgb(237, 136, 62);
 }
