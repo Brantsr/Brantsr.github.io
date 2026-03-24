@@ -39,6 +39,15 @@ video {
     align-items: center;
 }
 
+.col-4{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+.col-4 a {
+    color: rgb(186, 244, 9);
+}
+
 .col-6 {
     text-align: center;
     justify-content: center;
