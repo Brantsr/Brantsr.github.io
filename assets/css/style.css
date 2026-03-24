@@ -93,3 +93,7 @@ body {
     color: rgb(186, 244, 9);
     margin: 20px;
 }
+
+.navbar-toggler {
+    background-color: rgb(237, 136, 62);
+}
