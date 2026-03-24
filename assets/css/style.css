@@ -94,6 +94,6 @@ body {
     margin: 20px;
 }
 
-.collapse.navbar-collapse {
-    color: rgb(237, 136, 62);
+.navbar-toggler-icon {
+    background-color: rgb(237, 136, 62);
 }
